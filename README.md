@@ -1,1 +1,3 @@
-# Login-Signup-page
+# Login/Signup-page
+
+Responsive login/signup page
